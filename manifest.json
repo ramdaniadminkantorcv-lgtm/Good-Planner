@@ -1,0 +1,15 @@
+{
+  "name": "Good Planner - Asisten Pribadi",
+  "short_name": "Good Planner",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0e2a24",
+  "theme_color": "#0e2a24",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3281/3281289.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
